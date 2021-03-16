@@ -1,5 +1,5 @@
 ### Hi there 👋
-### NAME: Ayush Kumar GUPTA
+### NAME: AYUSH KUMAR GUPTA
 ### DESCRIPTION:
 I am a first year student at VIT-bhopal.
 Currently studying C++ and knows the basics of python and java.
