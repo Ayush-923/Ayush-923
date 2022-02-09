@@ -89,7 +89,7 @@
 </p>
 <br>
 
-## ❤ Views and Followers
+## 🤗 Views and Followers
 <a>
     <img src="https://komarev.com/ghpvc/?username=Ayush-923">
 </a>
