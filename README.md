@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ayush Kumar Gupta</h1>
 <h3 align="center">I'm a passionate Full Stack Developer & Programmer</h3>
 <p align="center">
-<a href="#"><img width="75%" height="auto" src=".\gti2.gif" height="175px"/></a>
+<a href="#"><img width="50%" height="auto" src=".\gitrmv.png" height="175px"/></a>
 </p>
 
 
