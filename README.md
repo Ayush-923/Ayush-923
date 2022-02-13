@@ -1,8 +1,8 @@
+<div align="center">
+<a href="#"><img width="50%" height="auto" src=".\gitrmv.png" height="175px"/></a>
+</div>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ayush Kumar Gupta</h1>
 <h3 align="center">I'm a passionate Full Stack Developer & Programmer</h3>
-<p align="center">
-<a href="#"><img width="50%" height="auto" src=".\gitrmv.png" height="175px"/></a>
-</p>
 
 
 ## 🙋‍♂️ About Me
@@ -69,7 +69,8 @@
 <img alt="Ayush Kumar Gupta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ayush-923&bg_color=0D1117&color=5BCDEC&line=ff4499&point=ffffff&hide_border=true" /></a>
 
 ## Contribution snake
-![snake gif](https://github.com/Ayush-923/Ayush-923/blob/output/github-contribution-grid-snake.svg)
+![snake gif](![snake gif](https://github.com/Ayush-923/Ayush-923/blob/output/github-contribution-grid-snake.svg)
+)
 <br/>
 <br/>
 
