@@ -66,7 +66,7 @@
 <br/>
 
 <!-- <a href="https://github.com/Ayush-923"> -->
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ayush-923&bg_color=7d2296&color=e8e8e8&line=ffffff&point=3ee09a&area=true&hide_border=true)
+![Ayush's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ayush-923&bg_color=7d2296&color=e8e8e8&line=ffffff&point=3ee09a&area=true&hide_border=true)
 
 ## 🐍Contribution snake
 ![snake gif](https://github.com/Ayush-923/Ayush-923/blob/output/github-contribution-grid-snake.svg)
