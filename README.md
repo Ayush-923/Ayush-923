@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Ayush Kumar Gupta</h1>
-<div align="center">
+<div alin="center">
 <a href="#"><img width="50%" height="auto" src=".\gitrmv.png" height="175px"/></a>
 </div>
 <h3 align="center">I'm a passionate Full Stack Developer & Programmer</h3>
