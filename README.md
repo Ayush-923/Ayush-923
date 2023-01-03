@@ -44,7 +44,7 @@
 
 <p align="center">
     <a href="https://github.com/Ayush-923/">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ayush Kumar Gupta's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-923&theme=tokyonight&hide_border=true&stroke=0000&background=060A0C0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ayush Kumar Gupta's streak" src="https://streak-stats.demolab.com/?user=Ayush-923&theme=tokyonight&hide_border=true&stroke=0000&background=060A0C0"/>
     </a>
 </p>
 <br><br><br>
