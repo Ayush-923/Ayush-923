@@ -4,7 +4,6 @@
 </div>
 <h3 align="center">I'm a passionate Full Stack Developer & Programmer</h3>
 
-
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[A Dance Acadmey Website]**
