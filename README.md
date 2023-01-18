@@ -1,6 +1,6 @@
 <h1 align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, Myself Ayush Kumar Gupta</h1>
 <div align="center">
-<a href="#"><img width="45%" height="auto" src=".\CodeBoy.gif" height="175px"/></a>
+<a href="#"><img width="30%" height="auto" src=".\boy.gif" height="175px"/></a>
 
     
 </div>
