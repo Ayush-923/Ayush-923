@@ -45,7 +45,7 @@
 
 <p align="center">
     <a href="https://github.com/Ayush-923/">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ayush Kumar Gupta's streak" src="https://streak-stats.demolab.com/?user=Ayush-923&theme=tokyonight&hide_border=true&stroke=0000&background=060A0C0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ayush Kumar Gupta's streak" src="https://streak-stats.demolab.com/?user=Ayush-923&theme=buefy&hide_border=false&stroke=0000&background=060A0C0"/>
     </a>
 </p>
 <br><br><br>
@@ -55,11 +55,11 @@
   <br/>
     <!-- <a href="https://github.com/Ayush-923"> -->
     <a>
-    <img alt="Ayush Kumar Gupta's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ayush-923&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+    <img alt="Ayush Kumar Gupta's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ayush-923&show_icons=true&count_private=true&theme=buefy&hide_border=false" /></a>
     
   <!-- <a href="https://github.com/Ayush-923"> -->
   <a>
-  <img alt="Ayush Kumar Gupta's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ayush-923&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+  <img alt="Ayush Kumar Gupta's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ayush-923&langs_count=8&count_private=true&layout=compact&theme=buefy&hide_border=false" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -68,7 +68,9 @@
 <br/>
 
 <!-- <a href="https://github.com/Ayush-923"> -->
-![Ayush's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ayush-923&bg_color=1a1b27&color=e8e8e8&line=70a4fc&point=be90f2&area=true&hide_border=true)
+![Ayush's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ayush-923&&theme=buefy&hide_border=false&bg_color=fff)
+
+<!-- &bg_color=1a1b27&color=e8e8e8&line=70a4fc&point=be90f2&area=true&hide_border=true) -->
 
 ## 🐍Contribution snake
 ![snake gif](https://github.com/Ayush-923/Ayush-923/blob/output/github-contribution-grid-snake.svg)
