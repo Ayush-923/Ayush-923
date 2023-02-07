@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[A Dance Acadmey Website]**
+- 🔭 I’m currently working on **[Speech to text Messenger]**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -68,7 +68,7 @@
 <br/>
 
 <!-- <a href="https://github.com/Ayush-923"> -->
-![Ayush's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ayush-923&&theme=buefy&hide_border=false&bg_color=fff)
+![Ayush's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ayush-923&&theme=buefy&area=true&hide_border=false&bg_color=fff&point=ff3961&line=7a58d5)
 
 <!-- &bg_color=1a1b27&color=e8e8e8&line=70a4fc&point=be90f2&area=true&hide_border=true) -->
 
