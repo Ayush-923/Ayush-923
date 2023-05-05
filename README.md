@@ -1,4 +1,4 @@
-<h1 align="center">Hello!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Ayush Kumar Gupta</h1>
+<h1 align="center">Hi!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Ayush Kumar Gupta</h1>
 <div align="center">
 <a href="#"><img width="50%" height="auto" src=".\CodeBoy.gif" height="175px"/></a>
 
