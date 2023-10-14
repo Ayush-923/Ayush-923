@@ -55,11 +55,11 @@
     <img alt="Ayush Kumar Gupta's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ayush-923&show_icons=true&count_private=true&theme=buefy&hide_border=false" /></a>
     
   <!-- <a href="https://github.com/Ayush-923"> -->
-  <a>
+<!--  <a>
   <img alt="Ayush Kumar Gupta's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ayush-923&langs_count=8&count_private=true&layout=compact&theme=buefy&hide_border=false" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
+-->
 
 <br/>
 <br/>
