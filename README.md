@@ -69,10 +69,6 @@
 
 <!-- &bg_color=1a1b27&color=e8e8e8&line=70a4fc&point=be90f2&area=true&hide_border=true) -->
 
-## 🐍Contribution snake
-![snake animation](https://github.com/Ayush-923/Ayush-923/blob/output/github-contribution-grid-snake.svg)
-<br/>
-<br/>
 
 ## Trophy:
 <p align="left">
