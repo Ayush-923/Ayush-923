@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Speech to text Messenger]**
+- 🔭 I’m currently working on **[LinguaHire]** : A platform where global teams can chat, meet, and collaborate in their own languages while the system handles real-time, context-aware translation.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
