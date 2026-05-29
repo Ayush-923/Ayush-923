@@ -1,97 +1,289 @@
-<h1 align="center">Hello!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I am Ayush Kumar Gupta</h1>
-<div align="center">
-<a href="#"><img width="50%" height="auto" src=".\CodeBoy.gif" height="175px"/></a>
+<h1 align="center">Hi 👋, I'm Ayush Gupta</h1>
 
-    
-</div>
-<h3 align="center">I'm a passionate Full Stack Developer & Programmer</h3>
-
-## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **[LinguaHire]** : A platform where global teams can chat, meet, and collaborate in their own languages while the system handles real-time, context-aware translation.
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/Ayush-923?tab=repositories)**
-
-- 📫 How to reach me **ayush.ag751@gmail.com**
-
-- ⚡ Fun fact **Your nostrils work one at a time**
-<br><br><br>
-## 🚀 Languages and Tools:
-<br>
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img color="white" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a style="padding-right:8px;" href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
-</p>
-<br><br>
-
-<br/>
+<h3 align="center">
+Software Engineer | SDET | Java Developer | Automation Engineer
+</h3>
 
 <p align="center">
-    <a href="https://github.com/Ayush-923/">
-        <img title="🔥 Github Streak" alt="Ayush Kumar Gupta's streak" src="https://streak-stats.demolab.com/?user=Ayush-923&theme=buefy&hide_border=false&stroke=0000&background=060A0C0"/>
-    </a>
+Building scalable automation frameworks, developer productivity tools, and high-quality software.
 </p>
-<br><br><br>
 
-## 📊 My Github Stats
-<br>
-  <br/>
-    <!-- <a href="https://github.com/Ayush-923"> -->
-    <a>
-    <img alt="Ayush Kumar Gupta's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ayush-923&show_icons=true&count_private=true&theme=buefy&hide_border=false" /></a>
-    
-  <!-- <a href="https://github.com/Ayush-923"> -->
-<!--  <a>
-  <img alt="Ayush Kumar Gupta's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ayush-923&langs_count=8&count_private=true&layout=compact&theme=buefy&hide_border=false" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
--->
-
-<br/>
-<br/>
-
-<!-- <a href="https://github.com/Ayush-923"> -->
-![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayush-923&&theme=buefy&area=true&hide_border=false&bg_color=fff&point=ff3961&line=7a58d5)
-
-<!-- &bg_color=1a1b27&color=e8e8e8&line=70a4fc&point=be90f2&area=true&hide_border=true) -->
-
-
-## Trophy:
-<p align="left">
-
-<a>
-<img alt="Ayush Kumar Gupta's Activity Graph" src="https://github-profile-trophy.vercel.app/?username=Ayush-923" />
-</a>
-
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/ayush-kumar-gupta-0bb57b203/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://instagram.com/ayush.__7/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://twitter.com/Ayush161"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-
+<p align="center">
+<a href="https://www.linkedin.com/in/ayush-kumar-gupta-0bb57b203/">LinkedIn</a> •
+<a href="https://github.com/Ayush-923">GitHub</a> •
+<a href="mailto:ayush.ag751@gmail.com">Email</a>
 </p>
-<br>
 
-## 🤗 Views and Followers
-<a>
-    <img src="https://komarev.com/ghpvc/?username=Ayush-923">
-</a>
-<!-- <a href="https://github.com/Ayush-923"> -->
-<a>
-<img src="https://img.shields.io/github/followers/Ayush-923?label=Followers&style=social" alt="GitHub Badge"></a>
+---
+
+# 🚀 About Me
+
+Software Development Engineer in Test (SDET) with ~2 years of experience specializing in Automation Testing, Quality Engineering, and Security Product Validation.
+
+Experienced in building scalable Selenium-Cucumber frameworks, optimizing regression execution, designing reusable automation utilities, and improving software quality through comprehensive testing strategies.
+
+Currently expanding expertise in Backend Development, Spring Boot, System Design, Cloud, and DevOps.
+
+---
+
+# 🎯 Career Highlights
+
+✅ 600+ Defects Identified & Validated
+
+✅ 300+ Automated Test Scenarios Developed
+
+✅ 600+ Automation Test Cases Migrated
+
+✅ 50% Regression Runtime Reduction (12 Hours → 6 Hours)
+
+✅ 40+ Major Production Issues Prevented
+
+✅ 98% Automation Stability Achieved
+
+✅ 500+ LeetCode Problems Solved
+
+✅ 2x 5H Award Recipient
+
+✅ Chrome DevTools Extension Developer
+
+---
+
+# 💼 Professional Experience
+
+### Software Development Engineer in Test (SDET)
+
+#### Core Expertise
+
+* Test Automation
+* Selenium WebDriver
+* Cucumber BDD
+* API Testing
+* Regression Testing
+* Dashboard Testing
+* Security Product Testing
+* RBAC Validation
+* Quality Engineering
+* Automation Framework Development
+
+#### Domain Expertise
+
+* Application Security Posture Management (ASPM)
+* Vulnerability Management
+* Risk Scoring
+* Security Findings
+* Dashboard Analytics
+* Supply Chain Security
+
+---
+
+# 📈 Measurable Impact
+
+| Achievement                       | Impact         |
+| --------------------------------- | -------------- |
+| Defects Reported & Validated      | 600+           |
+| Automated Test Scenarios          | 300+           |
+| Automation Cases Migrated         | 600+           |
+| Regression Runtime                | 12 hrs → 6 hrs |
+| Runtime Improvement               | 50%            |
+| Dashboard Automation Stability    | 98%            |
+| Supply Chain Automation Stability | 100%           |
+| Major Production Issues Prevented | 40+            |
+| Employee Recognition              | 2x 5H Award    |
+
+---
+
+# 🏆 Featured Projects
+
+## 🔹 XPath Helper Pro
+
+Chrome DevTools Extension built specifically for QA Engineers.
+
+### Features
+
+* Generates Top 7 Ranked XPath Selectors
+* Generates Top 7 Ranked CSS Selectors
+* Live DOM Validation
+* Shadow DOM Support
+* Iframe Traversal Support
+* One-Click Copy Functionality
+* Reliability-Based Selector Ranking
+* Filters Unstable React/MUI/UUID Generated Locators
+
+### Tech Stack
+
+* JavaScript
+* Chrome Extension APIs
+* Chrome DevTools APIs
+* DOM Analysis
+* XPath Engine
+* CSS Selector Engine
+
+### Impact
+
+Improves locator creation speed and reliability for QA Engineers while reducing time spent manually crafting XPath and CSS selectors.
+
+---
+
+## 🔹 LinguaHire
+
+Real-time multilingual collaboration platform enabling global teams to communicate in their preferred language.
+
+### Features
+
+* Real-Time Translation
+* Context-Aware Communication
+* Team Collaboration
+* Cross-Language Messaging
+
+### Tech Stack
+
+* React
+* JavaScript
+* Node.js
+* Express.js
+* MongoDB
+
+---
+
+## 🔹 Automation Framework Enhancements
+
+Built reusable automation utilities and framework improvements focused on scalability and maintainability.
+
+### Contributions
+
+* Framework Optimization
+* Utility Development
+* Stability Improvements
+* Execution Optimization
+* Reporting Enhancements
+
+### Results
+
+* Reduced regression runtime by 50%
+* Increased execution stability
+* Improved maintainability
+* Reduced manual effort
+
+---
+
+# 🛠️ Technical Skills
+
+## Languages
+
+* Java
+* JavaScript
+
+## Test Automation
+
+* Selenium WebDriver
+* Cucumber BDD
+
+## Backend
+
+* Spring Boot (Learning)
+* Node.js
+* Express.js
+
+## Frontend
+
+* React
+* HTML
+* CSS
+* JavaScript
+
+## Tools & Platforms
+
+* Git
+* GitHub
+* Jenkins
+* Sentry
+
+## AI Tools
+
+* ChatGPT
+* GitHub Copilot
+* Claude
+* Gemini
+* Codex
+* Kiro
+* Rovo
+
+---
+
+# 🤖 AI Engineering
+
+Leveraging AI tools to improve software quality and engineering productivity.
+
+### Use Cases
+
+* Test Case Generation
+* Automation Development
+* Debugging
+* Root Cause Analysis
+* Requirement Understanding
+* Report Analysis
+* Productivity Automation
+* Ticket Investigation
+
+---
+
+# 🧠 Problem Solving
+
+### Data Structures & Algorithms
+
+* 500+ LeetCode Problems Solved
+
+### Topics Practiced
+
+* Dynamic Programming
+* Binary Search
+* Sliding Window
+* Trie
+* Trees
+* Graphs
+* Hashing
+* Recursion
+* Backtracking
+* Strings
+* Arrays
+
+---
+
+# 🏅 Recognition
+
+### 5H Award Recipient
+
+Received the 5H Award twice for contributions to quality engineering, automation excellence, and productivity improvements.
+
+---
+
+# 📚 Currently Learning
+
+* Spring Boot
+* System Design
+* Cloud Fundamentals
+* DevOps
+* Backend Architecture
+* Scalable Software Design
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-923&show_icons=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ayush-923" />
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<a href="https://www.linkedin.com/in/ayush-kumar-gupta-0bb57b203/">LinkedIn</a> • <a href="https://github.com/Ayush-923">GitHub</a> • <a href="mailto:ayush.ag751@gmail.com">Email</a>
+
+---
+
+⭐ Interested in Software Engineering, Automation Engineering, Developer Productivity Tools, AI-Assisted Development, Backend Engineering, and Scalable Quality Engineering.
